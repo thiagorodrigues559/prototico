@@ -1,0 +1,19 @@
+
+
+.nav-link {
+    font-weight: bolder;
+    transition: all, 0.3s;
+}
+
+.nav-link:hover {
+    font-size: 20px;
+    color: red;
+}
+
+.carousel-inner {
+    height: 400px;
+}
+
+.carousel-item {
+    height: 400px;
+}
